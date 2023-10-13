@@ -62,7 +62,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-i will made the element in a way that it can increase in size when hover3d upon as some smart phones need the scan element to be extra big before it could be scanned compared to other smartphones.
+i  made the element in a way that it can increase in size when hovered upon as some smart phones need the scan element to be extra big before it could be scanned compared to other smartphones.
 
 
 ### Useful resources
